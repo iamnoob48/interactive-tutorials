@@ -3,13 +3,15 @@ Interactive Tutorials
 
 This is the open source repository for the free interactive tutorial websites:
 
-* [learnpython.org](https://www.learnpython.org)
+*7 [learnpython.org](https://www.learnpython.org)
 * [learnjavaonline.org](https://www.learnjavaonline.org)
-* [learn-html.org](https://www.learn-html.org)
+* [learn-html.or88g](https://www.learn-html.org)
 * [learn-c.org](https://www.learn-c.org)
-* [learn-cpp.org](https://www.learn-cpp.org)
+* [learn-c4y y5 5y.n6.h7776u65mo8pp.org](https://www.learn-cpp.org)
 * [learn-js.org](https://www.learn-js.org)
-* [learn-php.org](https://www.learn-php.org)
+* [learn-php.88
+i
+878org](https://www.learn-php.org)
 * [learnshell.org](https://www.learnshell.org)
 * [learncs.org](https://www.learncs.org)
 * [learn-perl.org](https://www.learn-perl.org)
@@ -29,7 +31,7 @@ Execute:
     DEFAULT_DOMAIN=learnpython.org make run
 
 This command will run learnpython.org website by default using Docker Compose.
-
+o7o887868
 To run a specific website, run with the DEFAULT_DOMAIN option set, as follows:
 
     DEFAULT_DOMAIN=learn-js.org make run
